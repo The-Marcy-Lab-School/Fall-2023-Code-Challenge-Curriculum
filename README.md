@@ -3,7 +3,7 @@
 **Table of Contents**
 
 - [Orientation Week](#orientation-week)
-- [Unit 0 - Intro To Code Challenges(#unit-0---intro-to-code-challenges)
+- [Unit 0 - Intro To Code Challenges](#unit-0---intro-to-code-challenges)
 
  ---
 
