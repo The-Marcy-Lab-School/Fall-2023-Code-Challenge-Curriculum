@@ -7,5 +7,10 @@
 
  ---
 
+ ## Orientation Week
+- [Introduction to Code Challenges and Leanring Mindsets Slides](https://docs.google.com/presentation/d/1oT53rdqilarTaa7XlzZ95wJcGQSv4aPUxZMwByTfe5A/edit?usp=sharing)
+
+
+
 ## Unit 0 - Intro To Code Challenges 
-- 10/02/23 - Functions, Variables, Console.log vs Return |[Slides](https://docs.google.com/presentation/d/1k71Aie6GQDiqczaCMh6xzJ_8PijtgT1REm9nhBBnYIM/edit?usp=sharing) | [Lesson Notes](./cc-unit-0/cc-00-console-return.md) |[Code Challenge Link](https://classroom.github.com/a/koI7e1hp)
+- 10/02/23 - Functions, Variables, Console.log vs Return |[Slides](https://docs.google.com/presentation/d/1k71Aie6GQDiqczaCMh6xzJ_8PijtgT1REm9nhBBnYIM/edit?usp=sharing) | [Lesson Notes](./cc-unit-0/cc-00-console-return.md) | [Code Challenge Link](https://classroom.github.com/a/koI7e1hp)
