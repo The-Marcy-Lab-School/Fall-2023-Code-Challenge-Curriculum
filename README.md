@@ -25,7 +25,7 @@
 -  10/17/23 - cc-07: For Loops and Control Flow | [Code Challenge Link](https://classroom.github.com/a/BkTzkurq)
 -  10/18/23 - cc-08: For Loops and Control Flow | [Code Challenge Link](https://classroom.github.com/a/EB9ohVKG)
 
-## Unit 2: Iterables: Strings, Arrays, Objects
+## Unit 2 - Iterables: Strings, Arrays, Objects
 -  10/19/23 - cc-09: Strings and Arrays | [Code Challenge Link](https://classroom.github.com/a/CXIKv5O9)
 
 ## Unit 3: PEDAC, Big-O
