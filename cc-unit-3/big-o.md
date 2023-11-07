@@ -26,7 +26,7 @@
 | Logarithmic  	| O(log n)       	| The input size is divided in half on each iteration        	|
 | Linear       	| O(n)           	| An un-nested loop over elements of an array                                             	|
 | Log-Linear   	| O(n log n)     	| A O(log n) sub-algorithm is executed within a loop 	|
-| Quadratic    	| O(n^2)         	| A nested loop                                                                              	|
+| Quadratic    	| O(n^2)         	| A loop nested in a loop of the same linear time complexity                                                                              	|
 
 > Other runtimes include exponential (`O(2^n)`) and factorial (`O(n!)`) but we won't cover these.
 
