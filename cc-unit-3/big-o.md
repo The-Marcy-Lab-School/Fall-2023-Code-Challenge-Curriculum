@@ -18,6 +18,23 @@
 * O(2<sup>_n_</sup>) - exponential time
 * O(_n_!) - factorial time
 
+*Everything essentially boils down to seven Big-O runtimes but the five below are the ones you'll most commonly encounter.*
+
+| Runtime Name 	| Big O Notation 	| How to identify                                                                                                	|
+|--------------	|----------------	|--------------------------------------------------------------------------------------------------------	|
+| Constant     	| O(1)           	| No iteration                                                                 	|
+| Logarithmic  	| O(log n)       	| The input size is divided in half on each iteration        	|
+| Linear       	| O(n)           	| An un-nested loop over elements of an array                                             	|
+| Log-Linear   	| O(n log n)     	| A O(log n) sub-algorithm is executed within a loop 	|
+| Quadratic    	| O(n^2)         	| A nested loop                                                                              	|
+
+> Other runtimes include exponential (`O(2^n)`) and factorial (`O(n!)`) but we won't cover these.
+
+These runtimes are written in order of efficiency. The chart below shows which kinds of runtimes are considered best and where we start to get concerned.
+
+![](./img/big-o-complexity-growth.jpeg)
+
+
 ## Learning Assignments
 1. **Video**: [Introduction to Algorithms](https://www.youtube.com/watch?v=rL8X2mlNHPM)
 2. **Video**: [Data Structures: Crash Course](https://www.youtube.com/watch?v=DuDz6B4cqVc)
