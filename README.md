@@ -3,7 +3,10 @@
 **Table of Contents**
 
 - [Orientation Week](#orientation-week)
-- [Unit 0 - Intro To Code Challenges](#unit-0---intro-to-code-challenges)
+- [Unit 0 - Intro To Code Challenges](#unit-0---intro-to-code-challenges
+- [Unit 1 - Foundational Fluency: Loops with Conditionals](#unit-1---foundational-fluency
+- [Unit 2 - Iterables: Strings, Arrays, Objects](#unit-2
+- [Unit 3 - PEDAC, Big-O](#unit-3)
 
  ---
 
