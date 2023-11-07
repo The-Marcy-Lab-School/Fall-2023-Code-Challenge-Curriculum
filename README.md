@@ -29,4 +29,5 @@
 -  10/19/23 - cc-09: Strings and Arrays | [Code Challenge Link](https://classroom.github.com/a/CXIKv5O9)
 
 ## Unit 3: PEDAC, Big-O
-- 10/11/23 - cc-14-PEDAC: Intro to PEDAC | [Slides](https://docs.google.com/presentation/d/19Z7vKWse74V49vjL57pUGcTRdV3-NU8L9hTXKxNtG9I/edit?usp=sharing) 
+- 11/6/23 - cc-14-PEDAC: Intro to PEDAC | [Slides](https://docs.google.com/presentation/d/1A2W91EE5OVKmrQUBtXhYI-ltwBp-43KsyNxkDC7oBrk/edit?usp=share_link) | [Code Challenge Link](https://classroom.github.com/a/zi7CeFJy)
+- 11/6/23 - Intro to Big-O | [Slides](https://docs.google.com/presentation/d/1A2W91EE5OVKmrQUBtXhYI-ltwBp-43KsyNxkDC7oBrk/edit?usp=share_link) | [Code Challenge Link](https://classroom.github.com/a/zi7CeFJy) | [Algorithm Exploration Activity](https://classroom.github.com/a/CXIKv5O9)
