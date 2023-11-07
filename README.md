@@ -30,4 +30,4 @@
 
 ## Unit 3: PEDAC, Big-O
 - 11/6/23 - cc-14-PEDAC: Intro to PEDAC | [Slides](https://docs.google.com/presentation/d/1A2W91EE5OVKmrQUBtXhYI-ltwBp-43KsyNxkDC7oBrk/edit?usp=share_link) | [Code Challenge Link](https://classroom.github.com/a/zi7CeFJy)
-- 11/6/23 - Intro to Big-O | [Slides](https://docs.google.com/presentation/d/1A2W91EE5OVKmrQUBtXhYI-ltwBp-43KsyNxkDC7oBrk/edit?usp=share_link) | [Code Challenge Link](https://classroom.github.com/a/zi7CeFJy) | [Algorithm Exploration Activity](https://classroom.github.com/a/CXIKv5O9)
+- 11/6/23 - Intro to Big-O | [Slides](https://docs.google.com/presentation/d/1A2W91EE5OVKmrQUBtXhYI-ltwBp-43KsyNxkDC7oBrk/edit?usp=share_link) | [Algorithm Exploration Activity](https://classroom.github.com/a/CXIKv5O9)
