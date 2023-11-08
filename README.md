@@ -31,6 +31,7 @@
 ## Unit 2 - Iterables: Strings, Arrays, Objects
 -  10/19/23 - cc-09: Strings and Arrays | [Code Challenge Link](https://classroom.github.com/a/CXIKv5O9)
 
-## Unit 3: PEDAC, Big-O
+## Unit 3: PEDAC, Big-O, HashMaps
 - 11/6/23 - cc-14-PEDAC: Intro to PEDAC | [Slides](https://docs.google.com/presentation/d/1A2W91EE5OVKmrQUBtXhYI-ltwBp-43KsyNxkDC7oBrk/edit?usp=share_link) | [Code Challenge Link](https://classroom.github.com/a/zi7CeFJy)
 - 11/6/23 - Intro to Big-O | [Slides](https://docs.google.com/presentation/d/1A2W91EE5OVKmrQUBtXhYI-ltwBp-43KsyNxkDC7oBrk/edit?usp=share_link) | [Algorithm Exploration Activity](https://classroom.github.com/a/CXIKv5O9) | [Notes](https://github.com/The-Marcy-Lab-School/Fall-2023-Code-Challenge-Curriculum/blob/main/cc-unit-3/big-o.md)
+- 11/6/23 - HashMaps and Big-O | [Slides](https://docs.google.com/presentation/d/1DVhnAQdYoRlechUp5-ZXQYLYBjkRXwla7T2oJOLZHPk/edit?usp=sharing) 
